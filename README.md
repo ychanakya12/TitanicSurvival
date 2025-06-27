@@ -1,2 +1,2 @@
 # TitanicSurvival
-The Titanic Survival Prediction project uses the Kaggle Titanic dataset to predict passenger survival from the 1912 disaster.
+The Titanic Survival Prediction project uses the Kaggle Titanic dataset to predict passenger survival from the 1912 disaster. Built in Python with Jupyter Notebooks, it employs classification models like Random Forest and Logistic Regression. Features like age, sex, and class are preprocessed, with EDA revealing survival patterns (e.g., higher survival for women). Achieving ~83% accuracy, it highlights factors influencing survival, aiding historical analysis.
